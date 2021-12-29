@@ -1,2 +1,3 @@
-# hackatory
-📦 inventory management made easy for hackathons! (aka no more lost hardware)
+# 📦 Hackatory
+
+Inventory management made easy for hackathons! AKA no more lost hardware and angry hardware lenders. Fun times!
